@@ -1,2 +1,34 @@
 # ky1eBot
-A basic discord bot made with the discord.js framework.
+Version 1.0.3
+
+A basic discord bot made with discord.js
+
+My first ever discord bot using the discord.js framework.
+
+So far it only has 5 basic commands.
+Will update as I develop more commands.
+
+Base bot prefix is "$"
+
+## List of commands
+    changePrefix - Changes bot's prefix.
+    definition - Get the definition of a word(is limitted to the https://dictionaryapi.dev/ api being used).
+    help - Get a full list of all commands/extra info.
+    ping - Is used to get bot's responce time.
+    randomName - Gives back a random name from a list of 21,000.
+    insult - The bot will kindly insult the givin name.
+
+## Issues
+- need to update command parameters handler to allow the use of optional parameters in a 
+less complicated way/allow more then one optional parameter.
+- the output of the definition command isnt perfect, need to fix the output of multiple definitions of a word.
+
+## Github
+https://github.com/maceman648
+
+## Discord server
+https://discord.gg/fUJbtMUTZ7
+
+## Thanks
+Thanks for checking out my code.
+lowkey proud of it :)

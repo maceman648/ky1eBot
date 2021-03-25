@@ -1,0 +1,77 @@
+[
+  {
+    "word": "word",
+    "phonetics": [
+      {
+        "text": "/wərd/",
+        "audio": "https://lex-audio.useremarkable.com/mp3/word_us_1.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "transitive verb",
+        "definitions": [
+          {
+            "definition": "Choose and use particular words in order to say or write (something)",
+            "synonyms": [
+              "phrase",
+              "express",
+              "put",
+              "couch",
+              "frame",
+              "set forth",
+              "formulate",
+              "style"
+            ],
+            "example": "he words his request in a particularly ironic way"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
+            "synonyms": [
+              "term",
+              "name",
+              "expression",
+              "designation",
+              "locution"
+            ],
+            "example": "I don't like the word “unofficial”"
+          },
+          {
+            "definition": "A command, password, or signal.",
+            "synonyms": [
+              "instruction",
+              "order",
+              "command"
+            ]
+          },
+          {
+            "definition": "One's account of the truth, especially when it differs from that of another person."
+          },
+          {
+            "definition": "The text or spoken part of a play, opera, or other performed piece; a script.",
+            "synonyms": [
+              "script",
+              "text"
+            ]
+          },
+          {
+            "definition": "A basic unit of data in a computer, typically 16 or 32 bits long."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "exclamation",
+        "definitions": [
+          {
+            "definition": "Used to express agreement."
+          }
+        ]
+      }
+    ]
+  }
+]

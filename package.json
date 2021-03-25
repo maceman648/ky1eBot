@@ -1,0 +1,23 @@
+{
+  "name": "ky1ebot",
+  "version": "1.0.3",
+  "description": "README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maceman648/ky1eBot.git"
+  },
+  "author": "mason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maceman648/ky1eBot/issues"
+  },
+  "homepage": "https://github.com/maceman648/ky1eBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
