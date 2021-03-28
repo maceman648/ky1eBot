@@ -1,23 +1,17 @@
 {
-  "name": "ky1ebot",
-  "version": "1.0.3",
-  "description": "README.md",
+  "name": "basediscorbot",
+  "version": "1.2.1-0-public",
+  "description": "README!.txt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maceman648/ky1eBot.git"
-  },
-  "author": "mason",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maceman648/ky1eBot/issues"
-  },
-  "homepage": "https://github.com/maceman648/ky1eBot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
+    "mongoose": "^5.12.2",
     "node-fetch": "^2.6.1"
   }
 }
