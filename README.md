@@ -19,7 +19,7 @@ Base bot prefix is "kyle$"
     randomName - Gives back a random name from a list of 21,000.
     insult - The bot will kindly insult the givin name.
     catch - The bot will take the given message and frame it.
-    testWrite - Test right to the mongoDB.
+    testWrite - Test write to the mongoDB.
 
 ## Issues
 - the output of the definition command isnt perfect, need to fix the output of multiple definitions of a word.
